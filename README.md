@@ -4,4 +4,4 @@ Python Wordlist Maker with 10 Words , This maker created by Cyber Merah Putih ( 
 # Usage
 python wordlist_cmp.py
 
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt tag](https://github.com/hexageek1337/Wordlist-Maker/raw/master/wordlistmaker_cmp.PNG)
